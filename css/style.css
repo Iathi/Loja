@@ -1,0 +1,51 @@
+body {
+	background-color: #000000;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#clock {
+    height: 100px;
+    width: 800px;
+    margin: auto;
+    position: absolute;
+    top: 0; 
+    left: 0; 
+    bottom: 0; 
+    right: 0;
+    font-family: courier, monospace;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+.header{
+	height: 30px;
+	width: 100%;
+	background-color: #000000;
+	border-bottom: 6px dotted #000000;
+	color: #ffffff;
+	position: absolute;
+}
+
+.footer{
+	height: 30px;
+	width: 100%;
+	background-color: #000000;
+	border-top: 6px dotted #000000;
+	color: #000000;
+	position: absolute;
+	bottom: 0;
+}
+.footer-text{
+	padding: 6px;
+	position: absolute;
+
+}
+.footer-text a{
+	text-decoration: none;
+	color: #ffffff;
+}
