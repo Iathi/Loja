@@ -11,7 +11,7 @@ $(document).ready(function(){
 		if(hours > 12)
 		{
 			hours = hours - 12;
-			meridiem = "PM";
+			meridiem = "";
 		}
 
 		//Replace 0 with 12
