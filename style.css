@@ -238,7 +238,7 @@ header .header-2.header-active{
 }
 
 .arrival .box-container .box .info h3{
-    padding:1rem;
+    padding:4rem;
     font-size: 2rem;
     color:var(--pink);
 }
